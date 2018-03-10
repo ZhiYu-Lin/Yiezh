@@ -3,7 +3,8 @@
     {
       "type": "Feature",
       "properties": {
-        "color": "#fafafa"
+        "color": "red",
+        "height": 120
       },
       "geometry": {
         "coordinates": [
