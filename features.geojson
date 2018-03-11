@@ -5,7 +5,79 @@
       "properties": {
         "color": "grey",
         "height": 65,
+        "base_height": 55
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              121.538529,
+              25.042807
+            ],
+            [
+              121.53857,
+              25.042614
+            ],
+            [
+              121.539696,
+              25.042604
+            ],
+            [
+              121.539698,
+              25.042785
+            ],
+            [
+              121.538529,
+              25.042807
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "10ab3c3532b3b85296783837d0fa52c1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "color": "grey",
+        "height": 45,
         "base_height": 35
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              121.538529,
+              25.042807
+            ],
+            [
+              121.53857,
+              25.042614
+            ],
+            [
+              121.539696,
+              25.042604
+            ],
+            [
+              121.539698,
+              25.042785
+            ],
+            [
+              121.538529,
+              25.042807
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "10ab3c3532b3b85296783837d0fa52c1"
+    },
+      {
+      "type": "Feature",
+      "properties": {
+        "color": "grey",
+        "height": 28,
+        "base_height": 10
       },
       "geometry": {
         "coordinates": [
