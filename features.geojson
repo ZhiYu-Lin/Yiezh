@@ -4,7 +4,8 @@
       "type": "Feature",
       "properties": {
         "color": "grey",
-        "height": 65
+        "height": 65,
+        "base_height": 35
       },
       "geometry": {
         "coordinates": [
