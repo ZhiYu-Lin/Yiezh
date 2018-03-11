@@ -127,7 +127,8 @@
       "type": "Feature",
       "properties": {
         "color": "green",
-        "height": 70
+        "height": 90,
+        "base_height": 68
       },
       "geometry": {
         "coordinates": [
