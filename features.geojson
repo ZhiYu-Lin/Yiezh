@@ -39,7 +39,8 @@
       "type": "Feature",
       "properties": {
         "color": "red",
-        "height": 45
+        "height": 45,
+        "opacity": 0.55
       },
       "geometry": {
         "coordinates": [
@@ -120,6 +121,39 @@
         "type": "Polygon"
       },
       "id": "c8609638de83cb563ae8ef1382942d09"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "color": "red",
+        "height": 55
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            121.538755,
+            25.043189
+          ],
+          [
+            121.539537,
+            25.043152
+          ],
+          [
+            121.539835,
+            25.043137
+          ],
+          [
+            121.540021,
+            25.042911
+          ],
+          [
+            121.540325,
+            25.043478
+          ]
+        ],
+        "type": "LineString"
+      },
+      "id": "f4cccca42337f94d2184ec3d7c8d5500"
     },
     {
       "type": "Feature",
