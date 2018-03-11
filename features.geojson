@@ -194,7 +194,7 @@
       "properties": {
         "color": "green",
         "height": 90,
-        "base_height": 68
+        "base_height": 25
       },
       "geometry": {
         "coordinates": [
