@@ -4,7 +4,7 @@
       "type": "Feature",
       "properties": {
         "color": "#95d2dd",
-        "height": 30
+        "height": 10
       },
       "geometry": {
         "coordinates": [
@@ -39,7 +39,7 @@
       "type": "Feature",
       "properties": {
         "color": "#95d2dd",
-        "height": 30
+        "height": 10
       },
       "geometry": {
         "coordinates": [
@@ -74,7 +74,7 @@
       "type": "Feature",
       "properties": {
         "color": "#95d2dd",
-        "height": 30
+        "height": 10
       },
       "geometry": {
         "coordinates": [
@@ -117,7 +117,7 @@
       "type": "Feature",
       "properties": {
         "color": "#95d2dd",
-        "height": 30
+        "height": 10
       },
       "geometry": {
         "coordinates": [
@@ -152,7 +152,7 @@
       "type": "Feature",
       "properties": {
         "color": "#95d2dd",
-        "height": 30
+        "height": 10
       },
       "geometry": {
         "coordinates": [
@@ -195,7 +195,7 @@
       "type": "Feature",
       "properties": {
         "color": "#95d2dd",
-        "height": 30
+        "height": 10
       },
       "geometry": {
         "coordinates": [
@@ -230,7 +230,7 @@
       "type": "Feature",
       "properties": {
         "color": "#95d2dd",
-        "height": 30
+        "height": 10
       },
       "geometry": {
         "coordinates": [
@@ -265,7 +265,7 @@
       "type": "Feature",
       "properties": {
         "color": "#95d2dd",
-        "height": 30
+        "height": 10
       },
       "geometry": {
         "coordinates": [
@@ -308,7 +308,7 @@
       "type": "Feature",
       "properties": {
         "color": "#95d2dd",
-        "height": 30
+        "height": 10
       },
       "geometry": {
         "coordinates": [
@@ -343,7 +343,7 @@
       "type": "Feature",
       "properties": {
         "color": "#95d2dd",
-        "height": 30
+        "height": 10
       },
       "geometry": {
         "coordinates": [
@@ -378,7 +378,7 @@
       "type": "Feature",
       "properties": {
         "color": "#95d2dd",
-        "height": 30
+        "height": 10
       },
       "geometry": {
         "coordinates": [
@@ -413,7 +413,7 @@
       "type": "Feature",
       "properties": {
         "color": "#95d2dd",
-        "height": 30
+        "height": 10
       },
       "geometry": {
         "coordinates": [
@@ -448,7 +448,7 @@
       "type": "Feature",
       "properties": {
         "color": "#95d2dd",
-        "height": 30
+        "height": 10
       },
       "geometry": {
         "coordinates": [
@@ -483,7 +483,7 @@
       "type": "Feature",
       "properties": {
         "color": "#95d2dd",
-        "height": 30
+        "height": 10
       },
       "geometry": {
         "coordinates": [
