@@ -6174,7 +6174,8 @@
     {
       "type": "Feature",
       "properties": {
-        "color": "#1c187b"
+        "color": "#1c187b",
+        "height": 0.1
       },
       "geometry": {
         "coordinates": [
